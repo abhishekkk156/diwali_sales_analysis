@@ -1,0 +1,62 @@
+button.subtn{
+    margin-left: 50%;
+    margin-top: 4%;
+}
+button>a{
+    text-decoration: none;
+}
+h1{
+    color:orange;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}  
+  
+body{
+   
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.bg{
+    background-image:url("")
+
+}
+.bg>h1{
+    color:orange;
+}
+.bg>h3{
+    color: orange;
+    text-align:left;
+    text-shadow: 20%;
+    margin-left: 10%;
+    margin-top: 8%;
+    font-size:xx-large;
+}
+.button{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.text,.button{
+    display: inline-block;
+    margin: 5px;
+
+    }
+h3{
+    margin-left: 30%;
+    font-size:x-large
+}
+.p,i{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.h2{
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.bg>p{
+    color: yellow;
+    font-size: large;
+    font-style: italic;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
